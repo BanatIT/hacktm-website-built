@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="10px" height="15px" viewBox="0 0 10 15" xmlns="http://www.w3.org/2000/svg"
-     xmlns:xlink="http://www.w3.org/1999/xlink">
-  <g transform="scale(-1,1) translate(-10,0)">
-    <path d="M5 5 0 5 0 0 5 0 5 5ZM5 15 0 15 0 10 5 10 5 15ZM10 10 5 10 5 5 10 5 10 10Z"/>
-  </g>
-</svg>
