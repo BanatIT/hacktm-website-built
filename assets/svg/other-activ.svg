@@ -1,0 +1,14 @@
+<svg width="85" height="150" xmlns="http://www.w3.org/2000/svg">
+  <g fill="none" fill-rule="evenodd">
+    <path fill="#F65800" d="M44.5 101.9v2.1h4v-2.1h-4zM48.5 101.9h4.1v-2h-4.1zM52.6 99.9h4v-2h-4zM56.6 97.9h4v-2h-4zM60.6 95.9h4.1v-2h-4.1zM64.7 93.9h4v-2.1h-4zM68.7 91.8h4.1v-2h-4.1zM72.8 87.8v2h4v-2zM76.8 87.8h4v-2.1h-4z"/>
+    <path fill="#F65800" d="M46.5 59.4v11.2h2v2h2v2h2.1v2h-2.1v2.1h-4v2h-8.1v-2h-4v-2.1h-2.1v-2h2.1v-2h2v-2h2V59.4h-2v2h-4.1v2.1h-4v2h-4v2h-4.1v2h-4v2.1h-4.1v2h-4v2H4v2.1H2v2H0v4h2v2h2v2.1h4.1v2h4v2h4.1v2h4v2.1h4.1v2h4v2h4v2h4.1v2.1h4v2h4.1v-2h-2.1v-2.1h2.1v-2h-2.1v-4h2.1v-2.1h4v-2h4.1v-2h4v-2h4v-2.1h4.1v-2h4v-2h4.1v-2h4v-2h4v-2.1h-4v-2h-4v-2h-4.1v-2.1h-4v-2h-4.1v-2h-4v-2h-4v-2.1h-4.1v-2zM80.8 85.8h2.1v-2.1h-2.1zM80.8 79.7h2.1v-2h-2.1zM83.3 79.7h-.4v4h2v-4z"/>
+    <path fill="#F65800" d="M44.5 76.6h-6.1v2.1h8.1v-2.1zM46.5 76.6h4v-2h-4zM40.4 53.4h4.1v-2.1h-4.1zM38.4 72.6h2v-2h-2zM46.5 72.6v-2h-2v2zM36.4 49.3v2h4v-2zM44.5 49.3v2h4v-2h-4zM40.4 74.6h4.1v-2h-4.1zM34.4 76.6h4v-2h-4zM34.4 49.3h2v-2h-2zM48.5 49.3h2v-2h-2zM50.7 35.1h1.9v-4h-2.1v4zM50.5 39.2v4h2.1v-4h-1.9zM52.6 39.2h2v-4.1h-2zM48.5 31.1h2v-2h-2zM48.5 45.3h2v-2.1h-2z"/>
+    <path fill="#F65800" d="M40.4 25v2h-4v2h-2v2.1h-2.1v4h-2v4.1h2v4h2.1v2h2v2.1h4v2h4.1v-2h4v-2.1h-2v-2h2v-4h2v-4.1h-2v-4h-2V29h2v-2h-4v-2zM44.5 97.9h2v-2h-2v2zM46.5 99.9h2v-2h-2zM48.5 95.9h2v-2h-2zM50.5 97.9h2.1v-2h-2.1zM52.6 93.9h2v-2.1h-2zM54.6 95.9h2v-2h-2zM56.6 91.8h2v-2h-2zM58.6 93.9h2v-2.1h-2zM60.6 89.8h2.1v-2h-2.1zM64.7 91.8v-2h-2v2zM64.7 87.8h2v-2h-2zM66.7 89.8h2v-2h-2zM68.7 85.8h2v-2.1h-2zM70.7 87.8h2.1v-2h-2.1zM72.8 83.7h2v-2h-2zM74.8 85.8h2v-2.1h-2zM76.8 81.7h2v-2h-2zM80.4 83.7h.4v-2h-2v2z"/>
+    <path fill="#FEB600" d="M46.5 29v2.1h2V29zM52.6 39.2v-4.1h-2.1v4.1h.2zM48.5 31.1v4h2v-4zM50.5 39.2h-2v4h2zM42.4 104h2.1v-2.1h-2.1zM32.3 76.6h2.1v-2h-2.1zM50.5 76.6h2.1v-2h-2.1zM50.5 95.9h-2v-2.1h-4v2.1h2v2h2v2h4.1v-2h-2.1zM38.4 76.6h8.1v-2h4v-2h-2v-2h-2v2h-2v2h-4.1v-2h-2v-2h-2v2h-2v2h4z"/>
+    <path fill="#FEB600" d="M46.5 97.9h-2v-2h-2.1v4h2.1v2h4v-2h-2zM46.5 78.7h4v-2.1h-4zM34.4 78.7h4v-2.1h-4zM46.5 80.7v-2h-8.1v2h6.1zM40.4 72.6h4.1v-2h2V51.3h-2v2h-4.1v-2h-2v19.3h2zM58.6 91.8h-2v-2h-4v2h2v2.1h2v2h4v-2h-2z"/>
+    <path fill="#FEB600" d="M54.6 93.8h-2v-2h-4.1v2h2v2.1h2.1v2h4v-2h-2zM72.8 91.8v-2zM66.7 87.8h-2v-2.1h-4.1v2.1h2.1v2h2v2h4v-2h-2zM72.8 73.6v-2z"/>
+    <path fill="#FEB600" d="M62.7 91.8v-2h-2.1v-2h-4v2h2v2h2v2.1h4.1v-2.1zM74.8 83.7h-2v-2h-4.1v2h2v2h2.1v2.1h4v-2.1h-2z"/>
+    <path fill="#FEB600" d="M78.8 83.7v-2h-2v-2h-4v2h2v2h2v2h4v-2h-.4z"/>
+    <path fill="#FEB600" d="M80.8 77.7h-4v2h2v2h2v2h2.1v-4h-2.1zM70.7 85.7h-2v-2h-4v2h2v2.1h2v2h4.1v-2h-2.1zM40.4 47.3h-4v2h4v-1zM48.5 49.3v-2h-4v2zM48.5 43.2h-2v2h2zM40.4 51.3h4.1v-2h-4.1z"/>
+  </g>
+</svg>
